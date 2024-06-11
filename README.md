@@ -28,7 +28,7 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 - [Policy Management Tools](#policy-management-tools)
 - [Service Mesh Tools](#service-mesh-tools)
 - [Logging Tools](#logging-tools)
-- [Monitoring & Observability Tools](#monitoring--observability-tools)
+- [ & Observability Tools](#--observability-tools)
 - [Visualization Tools](#visualization-tools)
 - [Internal Developer Platform Tools](#internal-developer-platform-tools)
 - [API Tools](#api-tools)
@@ -281,6 +281,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 * **[App Dynamics](https://www.appdynamics.com/)** (Enterprise): An application performance management solution that uses machine learning and artificial intelligence to provide real-time visibility and insight into IT environments.
 * **[Sumologic](https://www.sumologic.com/)** (Enterprise): A cloud-native, machine data analytics platform that delivers real-time, continuous intelligence.
 * **[Dynatrace](https://www.dynatrace.com/)** (Enterprise): An AI-powered, full-stack, automated performance management solution.
+* **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)** (Open Source): An Open Source alert investigation assistant capable of solving alerts like a human by fetching missing information. Works with Prometheus alerts, Jira tickets and more.
 
 ## Visualization Tools
 
